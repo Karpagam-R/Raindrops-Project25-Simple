@@ -1,2 +1,2 @@
-# Raindrops-Project25-Simple
-Simple Raindrops using basic concepts of JavaScript
+# p5.play-boilerplate
+Boiler plate for p5.play
