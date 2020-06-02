@@ -15,6 +15,6 @@ function rainDrops (){
   drop.width = random(2,6);
   drop.height = random(20,100);
   drop.velocityY = random(2,6);
-  drop.shapeColor = color(random(10,250),random(5,200),random(20,225));
+  drop.shapeColor = color(random(0,255),random(0,255),random(0,225));
  
 }
